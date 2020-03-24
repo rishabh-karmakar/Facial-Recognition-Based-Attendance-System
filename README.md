@@ -25,6 +25,10 @@ like structure.
 
 ![MTCNN](./images/mtcnn.png)
 
+# Note for working: 
+**Download models and save at models folder. PS: read models/readme.txt**
+Download models at: https://drive.google.com/file/d/0Bx4sNrhhaBr3TDRMMUN3aGtHZzg/view?usp=sharing
+
 ## All features and implemetation:
 
 **1. Two Step Verification:**
