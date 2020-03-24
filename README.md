@@ -87,14 +87,14 @@ Further more:
 
 Tested in Following Versions:
 
-OS: Ubuntu '19.04'
-tensorflow == '1.15.0'
-keras == '2.3.0'
-tkinter == '8.6'
-numpy == '1.16.1'
-opencv == '4.1.2' 
-python == '3.7.4'
-pyttsx3 == '2.71'
+*	OS: Ubuntu '19.04'
+*	tensorflow == '1.15.0'
+*	keras == '2.3.0'
+*	tkinter == '8.6'
+*	numpy == '1.16.1'
+*	opencv == '4.1.2' 
+*	python == '3.7.4'
+*	pyttsx3 == '2.71'
 
 ## Additional Highlights:
 
