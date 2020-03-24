@@ -23,7 +23,7 @@ Techologies Used:
 Using MTCNN we mapped out the 128 feature map from each side of the face to create a 3D grid
 like structure.
 
-![MTCNN](./images/mtcnn.png)
+![MTCNN](./mtcnn.png)
 
 # Note for working: 
 **Download models and save at models folder. PS: read models/readme.txt**
