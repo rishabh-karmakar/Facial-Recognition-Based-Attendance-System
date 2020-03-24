@@ -1,5 +1,8 @@
 # Facial Recognition Based Attendance System
 
+# [Watch the video: Link](https://drive.google.com/open?id=1i74ZfWtYivkAAbokYOWrrfZPv088Z5qV) 
+#### PS: Sorry for the bad quality, in case of any doubts refer the below images
+
 Facial Recognition Based Attendance System using Python, Tensorflow, Keras, SqlLite3, Tkinter, OpenCV for comapnies, schools, colleges, etc.
 
 Automating attendance using Face Recognition via Neural Networks
@@ -69,13 +72,33 @@ time and if present name will be marked as present in the xlxs sheet.
 **Creating an optimum solution and a better society.
 Viola!**
 
+
+## Note - check "Testing.txt"
+Run in following order:
+!python main.py
+!python Auth.py
+!python screen.py
+
+Further more: 
+	
+*	To add new entry: !python Add_New.py
+*	To verify and give to existing: !python Recog.py
+*	To check attendance in terminal: !python attendance.py 
+
+Tested in Following Versions:
+
+OS: Ubuntu '19.04'
+tensorflow == '1.15.0'
+keras == '2.3.0'
+tkinter == '8.6'
+numpy == '1.16.1'
+opencv == '4.1.2' 
+python == '3.7.4'
+pyttsx3 == '2.71'
+
 ## Additional Highlights:
 
 * As the next day arises, it is automatically stored in new tab in the xlxs sheet so files arent over-written
 * Seeing attendance or editing requires an master face print which can be set earlier so students cant change their records.
 * Multiple times and mutiple faces is taken in consideration
 * Future Scope: Setting in and out timing as well so as to create a proxy payroll system as well.
-
-
-
-
