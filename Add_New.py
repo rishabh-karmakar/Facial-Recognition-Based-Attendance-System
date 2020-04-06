@@ -71,6 +71,22 @@ def create_manual_data():
     f.write(json.dumps(data_set))
 
 
+face_detect = None
+aligner = None
+extract_feature = None
+FRGraph = None
+
+# def main_fun():
+#     global face_detect, aligner, extract_feature, FRGraph
+#     parser = argparse.ArgumentParser()
+#     parser.add_argument("--mode", type=str, help="Run camera recognition", default="camera")
+#     args = parser.parse_args(sys.argv[1:]);
+#     FRGraph = FaceRecGraph();
+#     aligner = AlignCustom();
+#     extract_feature = FaceFeature(FRGraph)
+#     face_detect = MTCNNDetect(FRGraph, scale_factor=2); #scale_factor, rescales image for faster detection
+#     main(args);
+    
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", type=str, help="Add New Face data", default="input")
