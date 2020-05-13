@@ -3,7 +3,7 @@
 # [Watch the video: Link](https://drive.google.com/open?id=1i74ZfWtYivkAAbokYOWrrfZPv088Z5qV) 
 #### PS: Sorry for the bad quality, in case of any doubts refer the below images
 
-Facial Recognition Based Attendance System using Python, Tensorflow, Keras, SqlLite3, Tkinter, OpenCV for comapnies, schools, colleges, etc.
+Facial Recognition Based Attendance System using Python, Tensorflow, Keras, SqlLite3, Tkinter, OpenCV for companies, schools, colleges, etc.
 
 Automating attendance using Face Recognition via Neural Networks
 
