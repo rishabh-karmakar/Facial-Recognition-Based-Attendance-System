@@ -3,8 +3,8 @@
 # [Watch the video: Link](https://www.youtube.com/watch?v=Fmkfh_XTGDw)
 [![Watch the video: Link](https://user-images.githubusercontent.com/48029688/81901761-aada5300-95dc-11ea-8de5-662c326e7edc.gif)](https://youtu.be/Fmkfh_XTGDw)</div>
 
-**Medium Article: [](https://medium.com/@rishabh.rk1705/automatic-facial-recognition-based-attendance-system-bea3be8003fe)**
-**Cppsecrets: [](https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php)**
+**Medium Article: [https://medium.com/@rishabh.rk1705/automatic-facial-recognition-based-attendance-system-bea3be8003fe](https://medium.com/@rishabh.rk1705/automatic-facial-recognition-based-attendance-system-bea3be8003fe)**
+**Cppsecrets: [https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php](https://cppsecrets.com/users/5271114105115104979810446114107495548525364103109971051084699111109/Advanced-Project-Automatic-Facial-Recognition-Based-Attendance-System.php)**
 #### PS: Sorry for the bad quality, in case of any doubts refer the below images
 
 Facial Recognition Based Attendance System using Python, Tensorflow, Keras, SqlLite3, Tkinter, OpenCV for companies, schools, colleges, etc.
