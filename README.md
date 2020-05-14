@@ -1,7 +1,7 @@
 # Facial Recognition Based Attendance System
 
 # [Watch the video: Link](https://www.youtube.com/watch?v=Fmkfh_XTGDw)
-[![Watch the video: Link](https://user-images.githubusercontent.com/48029688/81901761-aada5300-95dc-11ea-8de5-662c326e7edc.gif)](https://youtu.be/Fmkfh_XTGDw)
+[![Watch the video: Link](https://user-images.githubusercontent.com/48029688/81901761-aada5300-95dc-11ea-8de5-662c326e7edc.gif)](https://youtu.be/Fmkfh_XTGDw)</div>
 #### PS: Sorry for the bad quality, in case of any doubts refer the below images
 
 Facial Recognition Based Attendance System using Python, Tensorflow, Keras, SqlLite3, Tkinter, OpenCV for companies, schools, colleges, etc.
